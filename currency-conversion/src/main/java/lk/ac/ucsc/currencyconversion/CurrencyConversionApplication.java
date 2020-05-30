@@ -7,7 +7,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients("lk.ac.ucsc.currencyconversion")
-@EnableDiscoveryClient
+//@EnableDiscoveryClient
 
 public class CurrencyConversionApplication {
 
